@@ -1,0 +1,30 @@
+{
+  "name": "mwt-arch",
+  "version": "1.0.0",
+  "description": "Model-Workflow-Test (MWT) is a code architecture for GUI Integration test. This repo shows a demo of how MWT works.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test_src/test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaohongkok/mwt-arch-example.git"
+  },
+  "keywords": [
+    "mwt",
+    "model",
+    "workflow",
+    "test"
+  ],
+  "author": "Yao-Hong Kok",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yaohongkok/mwt-arch-example/issues"
+  },
+  "homepage": "https://github.com/yaohongkok/mwt-arch-example#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0",
+    "puppeteer": "^16.1.0"
+  }
+}
