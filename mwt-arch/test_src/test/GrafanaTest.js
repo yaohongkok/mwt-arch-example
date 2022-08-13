@@ -29,7 +29,7 @@ after (function () {
 });
 
 describe('MWT for Grafana', function () {
-    it('should work', async function () {
+    it('Search should work', async function () {
         await searchWorkflow.visitPage(page);
 
         await sideMenuWorkflow.isVisible(page);

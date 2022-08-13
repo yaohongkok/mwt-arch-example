@@ -1,6 +1,8 @@
 # mwt-arch-example
 Model-Workflow-Test (MWT) is a code architecture for GUI Integration test. This repo shows a demo of how MWT works.
 
+We will be testing against an open Grafana dashboard.
+
 ## Setup
 
 1. `cd mwt-arch`
