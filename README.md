@@ -11,3 +11,7 @@ We will be testing against an open Grafana dashboard.
 ## Running test
 
 Make sure you are in the folder `mwt-arch`. Then, run `npm test`.
+
+## Test Run Video
+
+https://www.youtube.com/watch?v=fKm7cp83tUg
